@@ -1,0 +1,92 @@
+[
+    {
+        "name": "crunchyroll",
+        "displayName": "Crunchyroll",
+        "price": 3,
+        "emoji": {
+            "name": "crunchyroll",
+            "id": "669654258269945857"
+        }
+    },
+    {
+        "name": "disney",
+        "displayName": "Disney",
+        "price": 3,
+        "emoji": {
+            "name": "disney",
+            "id": "669655910611812385"
+        }
+    },
+    {
+        "name": "hulu",
+        "displayName": "Hulu",
+        "price": 3,
+        "emoji": {
+            "name": "hulu",
+            "id": "668707338097524736"
+        }
+    },
+    {
+        "name": "deezer",
+        "displayName": "Deezer",
+        "price": 3,
+        "emoji": {
+            "name": "deezer",
+            "id": "673280278227189794"
+        }
+    },
+    {
+        "name": "minecraft",
+        "displayName": "Minecraft",
+        "price": 3,
+        "emoji": {
+            "name": "minecraft",
+            "id": "668706581294088193"
+        }
+    },
+    {
+        "name": "nordvpn",
+        "displayName": "nordvpn",
+        "price": 3,
+        "emoji": {
+            "name": "nordvpn",
+            "id": "669654257825349664"
+        }
+    },
+    {
+        "name": "spotify",
+        "displayName": "Spotify",
+        "price": 3,
+        "emoji": {
+            "name": "spotify",
+            "id": "668706581663318035"
+        }
+    },
+    {
+        "name": "pornhub",
+        "displayName": "pornhub",
+        "price": 4,
+        "emoji": {
+            "name": "pornhub",
+            "id": "670482214328467496"
+        }
+    },
+    {
+        "name": "dominos-us",
+        "displayName": "Dominos-US",
+        "price": 3,
+        "emoji": {
+            "name": "domino",
+            "id": "675874025104211968"
+        }
+    },
+    {
+        "name": "dominos-ca",
+        "displayName": "Dominos-CA",
+        "price": 3,
+        "emoji": {
+            "name": "dominos",
+            "id": "675881815273373726"
+        }
+    }
+]
