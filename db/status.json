@@ -1,0 +1,50 @@
+[
+  {
+    "status": "online",
+    "afk": false,
+    "game": {
+      "name": "with my peepee",
+      "type": "PLAYING"
+    }
+  },
+  {
+    "status": "dnd",
+    "afk": false,
+    "game": {
+      "name": "Stocking Accounts",
+      "type": "PLAYING"
+    }
+  },
+  {
+    "status": "online",
+    "afk": false,
+    "game": {
+      "name": "Prefix -",
+      "type": "PLAYING"
+    }
+  },
+  {
+    "status": "online",
+    "afk": false,
+    "game": {
+      "name": "-help for list of commands",
+      "type": "PLAYING"
+    }
+  },
+  {
+    "status": "online",
+    "afk": false,
+    "game": {
+      "name": "Josh pronounce 'asked'",
+      "type": "LISTENING"
+    }
+  },
+  {
+    "status": "online",
+    "afk": false,
+    "game": {
+      "name": "Made with love by Briggs & Destin",
+      "type": "PLAYING"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "token": "NzE1Mjc1NDE2Mjc3MDkwMzk1.Xs7QBA.3EV0VmyVv0XJHrpZ5zooZ7WUt70",
+  "prefix": "-",
+  "inviteChannel": "672284462549041191",
+  "inviteManagerID": "409875566800404480",
+  "Start": "669802864595697665",
+  "marketChannel": "670453085373726731",
+  "loggingWebhook": "https://discordapp.com/api/webhooks/670165310489362442/BG-SwDaEnIE-CWp7wDxO1sjAbKy5HlAHbpNiaprsVeSzixQNmVJwV_JHhanocVylianJ",
+  "roles": {
+    "administrator": "668630080922058761",
+    "accountSupplier": "668629953213890580",
+    "tools": "668630630430408704",
+    "mod": "668630106536935463",
+    "staff": "668974610733334538"
+  }
+}
